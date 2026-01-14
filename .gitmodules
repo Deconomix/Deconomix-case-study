@@ -1,0 +1,3 @@
+[submodule "Deconomix"]
+	path = Deconomix
+	url = https://github.com/Deconomix/Deconomix.git
