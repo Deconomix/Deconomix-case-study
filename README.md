@@ -2,7 +2,7 @@
 An example case study for the Deconomix python package. It demonstrates the capabilities of the package in a breast cancer scenario, including data curation, preprocessing, processing and visualizations.
 
 # Prerequisites
-While the analysis part in this study is computable on standard personal computer, the preprocessing of the data is not feasible on such a system. Therefore we strongly advise you to run this study on a cpu cluster with around 200GB of RAM, which will also drastically reduce the compute time for the hyperparameter search, where a multitude of models have to be trained.
+While the analysis part in this study is computable on standard personal computer, the preprocessing of the data is not feasible on such a system. Therefore we strongly advise you to run this study on a cpu cluster with around 200GB of RAM, which will also drastically reduce the compute time for the hyperparameter search, where a multitude of models have to be trained. We provided an example `Dockefile` as well.
 
 # Install instructions
 To run this case study on your own system, you can clone this repository to your disk. The source of the python package is included as a git submodule, therefore you should run following commands to run the analysis:
