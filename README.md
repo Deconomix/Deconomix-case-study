@@ -22,4 +22,4 @@ pip install -r requirements.txt
 In this study two public datasets will be used that have to be downloaded separately:
 
  - DISCO Breast Cancer/Healthy Single-Cell Expression Data: Download `disco_breast_v01.h5ad` from https://zenodo.org/records/7396984. Move this file to the `./Data/DISCO` directory.
- - TCGA-BRCA Breast Cancer Bulk Expression Data. Download via `tcga_downloader.py` which implements an API call to the GDC database. It will save the dataset to `./Data/TCGA` automatically, if you execute the script in the root of this project.
+ - TCGA-BRCA Breast Cancer Bulk Expression Data. Download via `Download_TCGA-BRCA.py` which implements an API call to the GDC database. It will save the dataset to `./Data/TCGA` automatically, if you execute the script in the root of this project.
