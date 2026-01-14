@@ -2,6 +2,9 @@
 Data/DISCO/disco_breast_v01.h5ad
 Data/TCGA/tcga_brca_rnaseq_counts.csv
 
+# Exclude Outputs
+Outputs/*
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
