@@ -1,0 +1,35 @@
+Cell type (DISCO),Cell type (minor),Cell type (major)
+Arterial EC,Arterial EC,Endothelial cell
+B cell,B cell,B cell
+Breast basal cell,Healthy Epithelial,Healthy Epithelial
+Breast cancer specific luminal cell,Cancer Epithelial,Cancer Epithelial
+Breast cancer specific proliferation luminal cell,Cancer Epithelial,Cancer Epithelial
+CD4 T,CD4 T cell,CD4 T cell
+CFD fibroblast,Fibroblast,Fibroblast
+CXCL1/2/3 fibroblast,Fibroblast,Fibroblast
+CXCL13 exhausted CD8 T,CD8 T cell,CD8 T cell
+Capillary EC,Capillary EC,Endothelial cell
+GZMH CD8 T,CD8 T cell,CD8 T cell
+GZMK CD8 T,CD8 T cell,CD8 T cell
+INF responsed T,CD4 T cell,CD4 T cell
+IgA plasma,IgA plasma,B cell
+IgG plasma cell,IgG plasma,B cell
+Luminal progenitor,Healthy Epithelial,Healthy Epithelial
+Lymphatic EC,Lymphatic EC,Endothelial cell
+Macrophage,Macrophage,Myeloid cell
+Mast cell,Granulocyte,Myeloid cell
+Monocyte,Monocyte,Myeloid cell
+NK cell,NK cell,NK cell
+POSTN fibroblast,Fibroblast,Fibroblast
+Pericyte,Pericyte,Perivascular cell
+Proliferation T/NK,NK cell,NK cell
+Proliferation macrophage,Macrophage,Myeloid cell
+Smooth muscle cell,Smooth muscle cell,Perivascular cell
+TGM2 luminal cell,Healthy Epithelial,Healthy Epithelial
+TNBC-specific epithelial cell,Cancer Epithelial,Cancer Epithelial
+Tfh,CD4 T cell,CD4 T cell
+Treg,CD4 T cell,CD4 T cell
+Venous EC,Venous EC,Endothelial cell
+cDC2,Dendritic cell,Myeloid cell
+mregDC,Dendritic cell,Myeloid cell
+pDC,Dendritic cell,Myeloid cell
